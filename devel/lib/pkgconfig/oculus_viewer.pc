@@ -1,0 +1,8 @@
+prefix=/home/highencast/github/phantomx_arm/devel
+
+Name: oculus_viewer
+Description: Description of oculus_viewer
+Version: 0.0.0
+Cflags: -I/home/highencast/github/phantomx_arm/src/oculus-master/oculus_viewer/include
+Libs: -L/home/highencast/github/phantomx_arm/devel/lib -loculus_viewer
+Requires: roscpp oculus_msgs

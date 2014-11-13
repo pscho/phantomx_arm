@@ -1,0 +1,8 @@
+prefix=/home/highencast/github/phantomx_arm/install
+
+Name: phantomx_arm_gazebo
+Description: Description of phantomx_arm_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/highencast/github/phantomx_arm/install/lib 
+Requires: 

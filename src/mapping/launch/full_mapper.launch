@@ -1,0 +1,10 @@
+<launch>
+  <include file="$(find turtlebot_bringup)/launch/minimal.launch"/>
+  <include file="$(find turtlebot_bringup)/launch/3dsensor.launch">
+  </include>
+  <!--
+  <node name="localizer" pkg="mapping" type="localizer.py" output="screen"/>
+  <node name="mapper" pkg="mapping" type="mapper.py" output="screen"/>
+  -->
+
+</launch>

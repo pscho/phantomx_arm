@@ -1,0 +1,8 @@
+prefix=/home/highencast/github/phantomx_arm/install
+
+Name: oculus_driver
+Description: Description of oculus_driver
+Version: 0.0.0
+Cflags: -I/home/highencast/github/phantomx_arm/install/include
+Libs: -L/home/highencast/github/phantomx_arm/install/lib -loculus_driver
+Requires: roscpp geometry_msgs tf oculus_msgs

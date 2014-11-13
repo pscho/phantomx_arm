@@ -1,0 +1,8 @@
+prefix=/home/highencast/github/phantomx_arm/devel
+
+Name: phantomx_arm_controller
+Description: Description of phantomx_arm_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/highencast/github/phantomx_arm/devel/lib 
+Requires: 

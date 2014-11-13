@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "phantomx_arm_gazebo")
+set(phantomx_arm_gazebo_MAINTAINER "michael <michael@todo.todo>")
+set(phantomx_arm_gazebo_DEPRECATED "")
+set(phantomx_arm_gazebo_VERSION "0.0.0")
+set(phantomx_arm_gazebo_BUILD_DEPENDS )
+set(phantomx_arm_gazebo_RUN_DEPENDS )
+set(phantomx_arm_gazebo_BUILDTOOL_DEPENDS "catkin")

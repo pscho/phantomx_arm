@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "phantomx_arm_turtlebot_description")
+set(phantomx_arm_turtlebot_description_MAINTAINER "michael <michael@todo.todo>")
+set(phantomx_arm_turtlebot_description_DEPRECATED "")
+set(phantomx_arm_turtlebot_description_VERSION "0.0.0")
+set(phantomx_arm_turtlebot_description_BUILD_DEPENDS )
+set(phantomx_arm_turtlebot_description_RUN_DEPENDS )
+set(phantomx_arm_turtlebot_description_BUILDTOOL_DEPENDS "catkin")

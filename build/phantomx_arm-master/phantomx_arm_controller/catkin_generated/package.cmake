@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "phantomx_arm_controller")
+set(phantomx_arm_controller_MAINTAINER "michael <michael@todo.todo>")
+set(phantomx_arm_controller_DEPRECATED "")
+set(phantomx_arm_controller_VERSION "0.0.0")
+set(phantomx_arm_controller_BUILD_DEPENDS )
+set(phantomx_arm_controller_RUN_DEPENDS )
+set(phantomx_arm_controller_BUILDTOOL_DEPENDS "catkin")

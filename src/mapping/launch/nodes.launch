@@ -1,0 +1,4 @@
+<launch>
+  <node name="localizer" pkg="mapping" type="localizer.py" output="screen"/>
+  <node name="mapper" pkg="mapping" type="mapper.py" output="screen"/>
+</launch>

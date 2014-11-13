@@ -1,0 +1,4 @@
+<launch>
+    <include file="$(find phantomx_arm_turtlebot_description)/launch/minimal.launch" />
+    <include file="$(find phantomx_arm_controller)/launch/arm.launch" />
+</launch>
